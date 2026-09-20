@@ -59,7 +59,7 @@ pip install flask scipy
 
 Run:
 
-python "gridpoint_updated (5).py"
+python gridpoint_updated (5).py
 
 4. Open the application
 
