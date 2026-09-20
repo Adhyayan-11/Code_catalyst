@@ -5,14 +5,23 @@ GridPoint is a Python-based web application that uses mathematical optimization 
 Technologies Used
 
 Backend
+
 Python
+
 Flask — web application server
+
 SciPy — mathematical optimization, specifically scipy.optimize.milp
+
 Frontend
+
 HTML
+
 CSS
+
 JavaScript — embedded directly within the Python script
+
 Leaflet — interactive maps
+
 Chart.js — data visualization
 
 Python Modules Used
