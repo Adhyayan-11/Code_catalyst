@@ -6,39 +6,36 @@ Technologies Used
 
 Backend
 
-Python
-
-Flask — web application server
-
-SciPy — mathematical optimization, specifically scipy.optimize.milp
+1. Python
+2. Flask — web application server
+3. SciPy — mathematical optimization, specifically scipy.optimize.milp
 
 Frontend
 
-HTML
-
-CSS
-
-JavaScript — embedded directly within the Python script
-
-Leaflet — interactive maps
-
-Chart.js — data visualization
+1. HTML
+2. CSS
+3. JavaScript — embedded directly within the Python script
+4. Leaflet — interactive maps
+5. Chart.js — data visualization
 
 Python Modules Used
 
 Standard Python Modules
-math
-pathlib
-os
-csv
-io
-json
-random
-time
-urllib
+
+1. math
+2. pathlib
+3. os
+4. csv
+5. io
+6. json
+7. random
+8. time
+9. urllib
+
 Third-Party Packages
-flask
-scipy
+
+1. flask
+2. scipy
 
 How to Run
 1. Open the project folder
@@ -71,6 +68,6 @@ Open that address in your web browser.
 
 Notes
 
-Make sure Python is installed and available from the command line.
-An internet connection may be required for map tiles and other externally loaded frontend resources.
-Keep the terminal running while using the application. Closing it or pressing Ctrl + C will stop the Flask server.
+1. Make sure Python is installed and available from the command line.
+2. An internet connection may be required for map tiles and other externally loaded frontend resources.
+3. Keep the terminal running while using the application. Closing it or pressing Ctrl + C will stop the Flask server.
