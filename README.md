@@ -36,6 +36,7 @@ Third-Party Packages
 
 1. flask
 2. scipy
+3. gunicorn
 
 How to Run
 1. Open the project folder
@@ -50,7 +51,7 @@ cd "D:\New folder (9)\gridpoint"
 
 Run:
 
-pip install flask scipy
+pip install flask scipy gunicorn
 
 3. Run the application
 
